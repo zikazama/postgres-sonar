@@ -1,5 +1,5 @@
 # Use the official PostgreSQL image as a base
-FROM postgres:latest
+FROM zikazama/sonarqube_db:latest
 
 # Set the container name
 LABEL maintainer="Your Name fauzi.web19@gmail.com"
