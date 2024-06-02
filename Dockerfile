@@ -10,4 +10,4 @@ ENV POSTGRES_USER=sonar \
     POSTGRES_DB=sonarqube
 
 # Define volume mount point
-VOLUME /var/lib/postgresql/data
+# VOLUME /var/lib/postgresql/data
